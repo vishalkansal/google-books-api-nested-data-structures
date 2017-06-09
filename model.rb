@@ -14,7 +14,7 @@ def get_data_from_api
 	
 	# answer_array
 end
-puts get_data_from_api
+book=get_data_from_api
 # Level One:
 
 # 1. Write code to return to print of the id of the book.

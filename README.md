@@ -1,6 +1,6 @@
 
     
-# Arrays and Hashes in API Data
+# Arrays and Hashes in API Data.
 
 APIs or Application Programming Interfaces are used to get and send data between apps. Think of them as a secret developer access to apps that most non-technical users would never be able to access. APIs are useful because they provide us with data and functionality that we can integrate into our own programming.
 
